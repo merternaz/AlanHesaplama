@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\AlanHesapla\bin\Debug\net7.0\AlanHesapla.exe
+C:\Users\MONSTER\GitProject\AlanHesapla\bin\Debug\net7.0\AlanHesapla.deps.json
+C:\Users\MONSTER\GitProject\AlanHesapla\bin\Debug\net7.0\AlanHesapla.runtimeconfig.json
+C:\Users\MONSTER\GitProject\AlanHesapla\bin\Debug\net7.0\AlanHesapla.dll
+C:\Users\MONSTER\GitProject\AlanHesapla\bin\Debug\net7.0\AlanHesapla.pdb
+C:\Users\MONSTER\GitProject\AlanHesapla\obj\Debug\net7.0\AlanHesapla.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\AlanHesapla\obj\Debug\net7.0\AlanHesapla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\AlanHesapla\obj\Debug\net7.0\AlanHesapla.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\AlanHesapla\obj\Debug\net7.0\AlanHesapla.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\AlanHesapla\obj\Debug\net7.0\AlanHesapla.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\AlanHesapla\obj\Debug\net7.0\AlanHesapla.dll
+C:\Users\MONSTER\GitProject\AlanHesapla\obj\Debug\net7.0\refint\AlanHesapla.dll
+C:\Users\MONSTER\GitProject\AlanHesapla\obj\Debug\net7.0\AlanHesapla.pdb
+C:\Users\MONSTER\GitProject\AlanHesapla\obj\Debug\net7.0\AlanHesapla.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\AlanHesapla\obj\Debug\net7.0\ref\AlanHesapla.dll
